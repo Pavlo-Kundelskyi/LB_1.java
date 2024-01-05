@@ -1,4 +1,3 @@
-Task1:
 import java.util.*;
 
 class Solution {
